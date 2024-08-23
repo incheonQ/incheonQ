@@ -1,3 +1,4 @@
+<!--
 <h3 align="center"> 🎓 Education 🎓 </h3>
   <ul align="center">
     <li>
@@ -22,7 +23,7 @@
      <a href='https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+C-FX-03+V3-KR'>트랜스포머 기반 자연어 처리 애플리케이션 구축, NVIDIA DLI</a>
     </li>
   </ul>
-
+-->
 
 <h3 align="center">🚀 Tech Stack 🚀</h3>
 <p align="center">
