@@ -1,10 +1,10 @@
 <h3 align="center"> 🎓 Education 🎓 </h3>
   <ul align="center">
     <li>
-      Bachelar of Logistics in Logistics, Inha Univ, South Korea
+      **Bachelar of Logistics in Logistics, Inha Univ, South Korea**
     </li>
     <li>
-     Bachelar of Science in Data Science, Inha Univ, South Korea
+     **Bachelar of Science in Data Science, Inha Univ, South Korea**
     </li>
     <li>
      Exchange Student Program, School of Information and Data Science, Nagasaki Univ, Japan
