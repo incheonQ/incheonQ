@@ -1,5 +1,5 @@
 <!--Reference: https://github.com/kyechan99/capsule-render?tab=readme-ov-file-->
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Minkyu!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=B2BEB5)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=160&section=header&text=Hi!%20I'm%20Minkyu!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=B2BEB5)
 
 # Tech Stack
 <!--
