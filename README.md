@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 # Tech Stack
+<!--
+Reference: https://simpleicons.org/
+-->
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Python&logoColor=white"/></a>
-
-Python, R, MySQL, PostgreSQL
-Java, Flutter
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Python&logoColor=white"/></a>
