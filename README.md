@@ -19,6 +19,9 @@
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white"/></a>
   <br>
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=google%20analytics&logoColor=white"/></a>
+  <br>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252"/></a>
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/></a>
 </p>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
