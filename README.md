@@ -16,10 +16,10 @@
      <a href='https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+C-FX-06+V2'>Building Conversational AI Applications, NVIDIA DLI</a>
     </li>
     <li>
-     멀티 GPU를 위한 딥러닝 기초, NVIDIA DLI
+     <a href='https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+C-MG-01+V2-KR'> 멀티 GPU를 위한 딥러닝 기초, NVIDIA DLI </a>
     </li>
     <li>
-     트랜스포머 기반 자연어 처리 애플리케이션 구축, NVIDIA DLI
+     <a href='https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+C-FX-03+V3-KR'>트랜스포머 기반 자연어 처리 애플리케이션 구축, NVIDIA DLI</a>
     </li>
   </ul>
 
