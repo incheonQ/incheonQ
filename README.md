@@ -4,16 +4,16 @@
 
 <h3 align="center">🚀 Tech Stack 🚀</h3>
 <p align="center">
-  <h5 align="center> 🔥🔥🔥</h5>
+  <h5 align="center"> 🔥🔥🔥</h5>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/></a>
   <br>
-   <h5 align="center> 🔥🔥</h5>
+   <h5 align="center"> 🔥🔥</h5>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/></a>
   <br>
-   <h5 align="center> 🔥</h5>
+   <h5 align="center"> 🔥</h5>
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=google%20analytics&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
