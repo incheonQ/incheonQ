@@ -1,5 +1,11 @@
-<!--Reference: https://github.com/kyechan99/capsule-render?tab=readme-ov-file-->
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=160&section=header&text=Hi!%20I'm%20Minkyu!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=B2BEB5)
+<h3> 🎓 Education 🎓 </h3>
+- Bachelar of Logistics in Logistics, Inha Univ, South Korea
+- Bachelar of Science in Data Science, Inha Univ, South Korea
+- Exchange Student Program, School of Information and Data Science, Nagasaki Univ, Japan
+- Google Analytics Individual Qualification, 2022.08
+- Building Conversational AI Applications, NVIDIA DLI
+- 멀티 GPU를 위한 딥러닝 기초, NVIDIA DLI
+- 트랜스포머 기반 자연어 처리 애플리케이션 구축, NVIDIA DLI
 
 
 <h3 align="center">🚀 Tech Stack 🚀</h3>
