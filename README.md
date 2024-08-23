@@ -1,5 +1,5 @@
-<h3> 🎓 Education 🎓 </h3>
-  <ul>
+<h3 align="center"> 🎓 Education 🎓 </h3>
+  <ul align="center">
     <li>
       Bachelar of Logistics in Logistics, Inha Univ, South Korea
     </li>
