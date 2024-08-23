@@ -1,25 +1,25 @@
 <h3> 🎓 Education 🎓 </h3>
   <ul>
     <li>
-    - Bachelar of Logistics in Logistics, Inha Univ, South Korea
+      Bachelar of Logistics in Logistics, Inha Univ, South Korea
     </li>
     <li>
-    - Bachelar of Science in Data Science, Inha Univ, South Korea
+     Bachelar of Science in Data Science, Inha Univ, South Korea
     </li>
     <li>
-    - Exchange Student Program, School of Information and Data Science, Nagasaki Univ, Japan
+     Exchange Student Program, School of Information and Data Science, Nagasaki Univ, Japan
     </li>
     <li>
-    - Google Analytics Individual Qualification, 2022.08
+     Google Analytics Individual Qualification, 2022.08
     </li>
     <li>
-    - Building Conversational AI Applications, NVIDIA DLI
+     Building Conversational AI Applications, NVIDIA DLI
     </li>
     <li>
-    - 멀티 GPU를 위한 딥러닝 기초, NVIDIA DLI
+     멀티 GPU를 위한 딥러닝 기초, NVIDIA DLI
     </li>
     <li>
-    - 트랜스포머 기반 자연어 처리 애플리케이션 구축, NVIDIA DLI
+     트랜스포머 기반 자연어 처리 애플리케이션 구축, NVIDIA DLI
     </li>
   </ul>
 
